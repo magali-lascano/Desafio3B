@@ -1,0 +1,38 @@
+[
+    {
+        "id": [],
+        "title": "Producto",
+        "description": "Este es un producto",
+        "price": 222,
+        "code": "abc111",
+        "thumbnail": ".",
+        "stock": 22
+    },
+    {
+        "id": [],
+        "title": "Producto",
+        "description": "Este es un producto",
+        "price": 222,
+        "code": "abc222",
+        "thumbnail": ".",
+        "stock": 22
+    },
+    {
+        "id": [],
+        "title": "Producto",
+        "description": "Este es un producto",
+        "price": 222,
+        "code": "abc333",
+        "thumbnail": ".",
+        "stock": 22
+    },
+    {
+        "id": [],
+        "title": "Producto",
+        "description": "Este es un producto",
+        "price": 222,
+        "code": "abc444",
+        "thumbnail": ".",
+        "stock": 22
+    }
+]
